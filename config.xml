@@ -3,8 +3,8 @@
   xmlns       = "http://www.w3.org/ns/widgets"
   xmlns:gap   = "http://phonegap.com/ns/1.0"
   id          = "com.shop-mobilizer.kolgotochki.com.ua"
-  version     = "15.08.05"
-  versionCode = "150805"
+  version     = "15.08.07"
+  versionCode = "150807"
 >
   <name>Интернет магазин Kolgotochki</name>
   <author
